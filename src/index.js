@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import HelloWorld from './component/helloWorld';
 import './index.css';
 
 
